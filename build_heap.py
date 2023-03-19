@@ -47,6 +47,7 @@ def read_input_from_file(file_path):
 
 
 def main():
+    #viss inputs loti lidzigs ka no pagajusa uzdevuma
     input_veids = input(
         "Ievadi 'F' lai nolasītu inputu no faila, vai arī 'I' lai nolasītu input no klaviatūras: ").strip()
 
